@@ -35,12 +35,14 @@ I'm **20** and I don't know what I'm doing
 [![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)
 
 ### Operating Systems
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?logo=debian&logoColor=white)
     
 </details>
+
+<br>
 
 ## <img src="assets/bakushin.gif" width="60px" align="absmiddle" /> Contact
 
