@@ -5,13 +5,14 @@ I'm **20** and I don't know what I'm doing
 <details>
     <summary>Stats</summary>
 
-    ![Nyuke's Stats](https://github-readme-stats.vercel.app/api?username=Nyuke235&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![Nyuke's Stats](https://github-readme-stats.vercel.app/api?username=Nyuke235&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
-    ![Nyuke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyuke235&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![Nyuke's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyuke235&theme=radical&show_icons=true&hide_border=false&layout=compact)
 </details>
 
 <details>
-    <summary>Languages</summary>
+<summary>Languages</summary>
+
 ### Gaming / Modding
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) ![LIBGDX](https://img.shields.io/badge/LIBGDX-gray)<br>
 [![C/C++](https://img.shields.io/badge/C%2FC++-00599C.svg?logo=c%2B%2B&logoColor=white)](#) ![SFML](https://img.shields.io/badge/SFML-gray)<br>
